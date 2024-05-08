@@ -6,11 +6,9 @@
 <h3 align="center">Dedicated Full-Stack Developer in the making from Turkey | Exploring Front-End & Back-End Technologies</h3>
 <img align="right" alt="Coding" width="400" src="https://qph.cf2.quoracdn.net/main-qimg-c0c2264911d8cd4a688acd0542240f95">
 
-### 🌱 I’m currently learning:
+### 🌱 I’m currently improving myself in:
 - Machine Learning
 - Next.js
-- Node.js
-- React
 
 ### 👨‍💻 I specialize in:
 - Java
